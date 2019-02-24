@@ -1,0 +1,1 @@
+# small bits of code as i learn JS
