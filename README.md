@@ -1,3 +1,3 @@
-# small bits of code as I learn JS
+# small bits of code
 
 Conditionals - 
