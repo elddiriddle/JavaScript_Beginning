@@ -21,7 +21,7 @@ function sayThanks(name) {
 sayThanks('Alley');
 
 
-//>>>>>>> Default Parameters <<<<<<<----------------------------------------------+
+//>>>>>>> Default Parameters <<<<<<<------------------------------------+
 function greeting (name = 'stranger') {
     console.log(`Hello, ${name}!`)
 
