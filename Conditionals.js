@@ -1,6 +1,6 @@
 // CONDITIONALS: 
 
-// >>>>> if...Else Statements <<<<<<<------------------------+
+// >>>>> if...Else Statements <<<<<<<-----------------------------+
 if (True) {
     console.log('We should get a cat');
 }  else {
