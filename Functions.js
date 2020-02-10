@@ -7,7 +7,7 @@ function getReminder(){ // declaration of a function is bound to its identifier 
     console.log('Feed the dog') // body of the function between { }
 }
 
-//>>>>>>> Calling a Function <<<<<<<<<<<<<<<<<----------------------------------+
+//>>>>>>> Calling a Function <<<<<<<<<<<<<<<<<-------------------------------------+
 function getTakeOutTheTrash(){
     console.log('Trash goes out on Tuesday');//<<---- use simicolon at end of line;
 }
